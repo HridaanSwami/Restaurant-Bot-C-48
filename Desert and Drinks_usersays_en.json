@@ -1,0 +1,54 @@
+[
+  {
+    "id": "1395d541-287f-42c5-8791-1ea4856eb9cb",
+    "data": [
+      {
+        "text": "Soda",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ab180083-719d-4574-ad6f-0dc957ff9b93",
+    "data": [
+      {
+        "text": "Deserts",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "77934111-0ba2-4e29-b331-be1578a426fd",
+    "data": [
+      {
+        "text": "drinks",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "17a11a4d-7db3-4101-9734-4bff8f8dc024",
+    "data": [
+      {
+        "text": "Deserts and Drinks",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

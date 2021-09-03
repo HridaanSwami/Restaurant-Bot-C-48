@@ -1,0 +1,127 @@
+[
+  {
+    "id": "44ad2525-b1e8-4b22-94c2-8ec114f5454d",
+    "data": [
+      {
+        "text": "Jamun",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b5bc88ce-48dc-4a6e-bab2-332d0cd4e6eb",
+    "data": [
+      {
+        "text": "Ice cream",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b244a059-9104-4328-9e1b-11fa165584ac",
+    "data": [
+      {
+        "text": "Soda",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5631209b-4e5c-48b6-8983-478b93ed6a31",
+    "data": [
+      {
+        "text": "French Fries",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2b3da0d2-b82d-4bff-845a-3811b44a5003",
+    "data": [
+      {
+        "text": "Gol Gappe",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "57b34abc-261e-4ddf-b560-2adea3ea56cb",
+    "data": [
+      {
+        "text": "Panner Tikka",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d1219df6-dd37-4c79-8d3a-79e9fef2aa25",
+    "data": [
+      {
+        "text": "Vanilla",
+        "userDefined": false
+      },
+      {
+        "text": " Ice cream",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ca64f012-5958-4ca5-9c6e-d345cb5fdff2",
+    "data": [
+      {
+        "text": "Chole",
+        "userDefined": false
+      },
+      {
+        "text": " Bhature",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "253a820a-ceb2-43e2-83fa-f5915595a659",
+    "data": [
+      {
+        "text": "Tomato Soup",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]
